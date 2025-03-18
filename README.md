@@ -48,5 +48,8 @@ Este proyecto está bajo la licencia MIT. Puedes ver más detalles en el archivo
 ## Autor
 
 Desarrollado por Federico Gallo (https://github.com/Fedef11980).
-Curso Fundamentos de programación desde cero Fernando Herrera
+
+Curso Fundamentos de programación desde cero Fernando Herrera.
+
+URL: https://my-game-fgg.netlify.app/ 
 
