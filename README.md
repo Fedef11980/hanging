@@ -16,25 +16,6 @@ Este es un juego del ahorcado desarrollado en React utilizando TypeScript. Permi
 - Hooks de React (`useState`, `useEffect`)
 - CSS para estilos
 
-## Instalación
-
-1. Clona este repositorio:
-   ```sh
-   git clone https://github.com/tu-usuario/nombre-del-repo.git
-   ```
-2. Navega al directorio del proyecto:
-   ```sh
-   cd nombre-del-repo
-   ```
-3. Instala las dependencias:
-   ```sh
-   npm install
-   ```
-4. Inicia la aplicación:
-   ```sh
-   npm run dev
-   ```
-
 ## Uso
 
 - Haz clic en las letras para adivinar la palabra oculta.
@@ -66,6 +47,6 @@ Este proyecto está bajo la licencia MIT. Puedes ver más detalles en el archivo
 
 ## Autor
 
-Desarrollado por [Tu Nombre](https://github.com/Fedef11980).
+Desarrollado por Federico Gallo (https://github.com/Fedef11980).
 Curso Fundamentos de programación desde cero Fernando Herrera
 
